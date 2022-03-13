@@ -1,0 +1,24 @@
+{
+    "document" : {
+        "id":null,
+        "skinCd":""
+    },
+    "education" : {
+        "loading": false,
+        "error": "",
+        "data": null
+    },
+    "contact" : {
+        "loading": false,
+        "error": "",
+        "data": null
+    },
+    "auth":{
+        "loading":false,
+        "error":""
+    },
+    "firestore" : {
+        "loading" : false,
+        "error" : ""
+    }
+}
